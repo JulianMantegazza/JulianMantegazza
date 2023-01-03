@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Julian Mante 👨🏻‍💻🙋🏻‍♂️👋🏻
+
+![profile-image](https://user-images.githubusercontent.com/115175168/210278603-1f4daa94-6bcc-47a9-a8ab-2a0db65af884.jpg)
+
+```javascript
+const julianMantegazza = {
+  pronouns: "He" / "Him",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Redux, Node]
+}
+```
 
 <!--
 **JulianMantegazza/JulianMantegazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
