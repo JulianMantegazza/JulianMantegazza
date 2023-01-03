@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👨🏻‍💻🙋🏻‍♂️👋🏻, I'm Julian Mantegazza</h1>
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
-![profile-image](https://user-images.githubusercontent.com/115175168/210278603-1f4daa94-6bcc-47a9-a8ab-2a0db65af884.jpg)
+<p><img align="center" src="https://user-images.githubusercontent.com/115175168/210278603-1f4daa94-6bcc-47a9-a8ab-2a0db65af884.jpg" /></p>
 
 ```javascript
 const julianMantegazza = {
@@ -11,9 +11,6 @@ const julianMantegazza = {
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julianmantegazza&label=Profile%20views&color=0e75b6&style=flat" alt="julianmantegazza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianmantegazza" alt="julianmantegazza" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js and Phyton.**
 
